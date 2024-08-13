@@ -45,15 +45,22 @@ Following inferences can be drawn from the dashboard;
 
 Total Profit of $16.89M
 
-Most profit gained from France.
+Most profit is gained from France.
 
 Most profitable Product is 'Passeo'.
 
-Segment wise analysis shows that Government owns most profit and next it is from Small business.
+Segment-wise analysis shows that the Government generates the most profit, followed by Small businesses.
 
-If discount is given there is an increase in Profit is there.
+If discount is given, there is an increase in Profit.
 
-Product 'Passeo' have the least manufacturing price and also holds more profit.
+The product 'Passeo' has the lowest manufacturing cost and also generates the highest profit.
+
+
+
+
+
+
+
 
   
 
