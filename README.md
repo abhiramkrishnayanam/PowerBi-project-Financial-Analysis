@@ -34,12 +34,12 @@ The financial analysis of different products is visualized using Power BI, with 
 - Effect of COG and Manufacturing price:
   ![Screenshot (108)](https://github.com/user-attachments/assets/c662388a-024b-43a4-b338-26b68c9aa46b)
 
-- Step 10 : At last the effect of Discount and Grosssales was also considered and analysed the effect on Profit.
+- Step 10 : Finally, the impact of discounts and gross sales on profit was also considered.
 
  
 # Insights
 
-Following inferences can be drawn from the dashboard;
+Following inferences can be drawn from the report;
 
 ### Total Profit of $16.89M
 
