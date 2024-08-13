@@ -1,3 +1,4 @@
+
 # FINANCIAL ANALYSIS (2013-14), A PowerBI Project Report
 
 ## Problem Statement
@@ -17,8 +18,9 @@ The financial analysis of different products is visualized using Power BI, with 
 - Step 9 : Next I used the effect of Manufacturing cost and Cost of Goods in making Profit Product Wise.For that a Donut chart and Pie chart have used. 
 - Step 10 : At last the effect of Discount and Grosssales was also considered and analysed the effect on Profit.
  
- #snap of some reports are giving
+#snap of some reports are giving
  
+
   profit based sales:
   ![Screenshot (105)](https://github.com/user-attachments/assets/3884fa02-2fc0-420c-b583-36733c988ab6)
  
@@ -55,5 +57,3 @@ Product 'Passeo' have the least manufacturing price and also holds more profit.
 
   
 
-
-Product 'Passeo' have the least manufacturing price and also holds more profit.
