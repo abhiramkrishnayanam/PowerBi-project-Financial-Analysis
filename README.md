@@ -17,8 +17,9 @@ The financial analysis of different products is visualized using Power BI, with 
 - Step 8 :The next two pages include Year wise and Date wise analysis in which hierarchy method and for visualisation funnel charts was used.    
 - Step 9 : Next I used the effect of Manufacturing cost and Cost of Goods in making Profit Product Wise.For that a Donut chart and Pie chart have used. 
 - Step 10 : At last the effect of Discount and Grosssales was also considered and analysed the effect on Profit.
- 
-#snap of some reports are giving
+
+
+Snap of some reports:
  
 
   profit based sales:
