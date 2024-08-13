@@ -19,16 +19,16 @@ The financial analysis of different products is visualized using Power BI, with 
 - Step 10 : At last the effect of Discount and Grosssales was also considered and analysed the effect on Profit.
 
 
-Snap of some reports:
+Snap of some reports are giving
  
 
-  profit based sales:
+Profit based sales:
   ![Screenshot (105)](https://github.com/user-attachments/assets/3884fa02-2fc0-420c-b583-36733c988ab6)
  
-  Profit based on units of product sold:
+Profit based on units of product sold:
   ![Screenshot (107)](https://github.com/user-attachments/assets/58cd233a-4461-4be6-b031-b47b259f0475)
   
-  Effect of COG and Manufacturing price:
+Effect of COG and Manufacturing price:
   ![Screenshot (108)](https://github.com/user-attachments/assets/c662388a-024b-43a4-b338-26b68c9aa46b)
 
 
