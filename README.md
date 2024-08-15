@@ -45,8 +45,6 @@ The following inferences can be drawn from the report;
 
 ### Total Profit of $16.89M
 
-Total Profit of $16.89M
-
 Most profit is gained from France.
 
 The most profitable Product is 'Passeo'.
